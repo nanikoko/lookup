@@ -1,0 +1,12 @@
+package kr.or.ddit.board.vo;
+
+public class FreeComment2VO {
+
+private String mem_id      ;
+private String content     ;
+private String create_date ;
+private String update_date ;
+	
+	
+	
+}
